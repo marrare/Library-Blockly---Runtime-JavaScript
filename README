@@ -1,0 +1,5 @@
+Biblioteca Blockly com runtime JavaScript e transferência automática para outra área de desenvolvimento.
+
+Blockly fornece ferramentas para uma programação por demonstração, permitindo a utilização de blocos de programação.
+
+Função com demonstração de como executar o código javascript, para funcionar como um runtime JavaScript
